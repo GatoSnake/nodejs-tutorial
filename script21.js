@@ -1,7 +1,7 @@
 /*
 Execute in terminal:
 
-npm install body-parser
+npm install cookie-parser
 node script21.js
 
 */
