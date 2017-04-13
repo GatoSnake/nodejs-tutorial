@@ -1,0 +1,32 @@
+{
+  "name": "tutorialnodejscodedamn",
+  "version": "1.0.0",
+  "description": "tutorial nodejs codedamn",
+  "main": "index.html",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crismaster/nodejs-tutorial.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "es6",
+    "server"
+  ],
+  "author": "Cristhian Won (cristhian.won@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crismaster/nodejs-tutorial/issues"
+  },
+  "homepage": "https://github.com/crismaster/nodejs-tutorial#readme"
+}
