@@ -56,7 +56,7 @@ app.get('/redirects', (request, response) => {
         console.log(session.uniqueID);
         response.redirect('admin');
     } else {
-        response.end('Who are you?? <a href="/logout">KILL SESSION</a>');
+        response.send('Who are you?? <a href="/logout">KILL SESSION</a>');
     }
 });
 
